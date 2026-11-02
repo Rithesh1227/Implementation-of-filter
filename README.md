@@ -1,4 +1,8 @@
-# Implementation-of-filter
+# Ex05-Implementation-of-filter
+# Developed By: Rithesh S
+
+# Register Number: 212225220084
+
 ## Aim
 
 To implement filters for smoothing and sharpening images in the spatial domain.
@@ -28,11 +32,6 @@ Plot and display the original and filtered images using matplotlib.pyplot.
 End the program.
 
 ## Program
-
-*Developed By:* Rithesh S
-
-*Register Number:* 212225220084
-
 
 ## 1. Smoothing Filters
 
